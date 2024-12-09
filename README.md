@@ -31,13 +31,11 @@
 ---
 
 ### 📫 Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/in/an-syu-li-10897a273/)
-- ✉️ [yessir0621@gmail.com](mailto:yessir0621@gmail.com)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/an-syu-li-10897a273/)
 [![Email](https://img.shields.io/badge/Email-Contact-c14438?logo=gmail&style=flat)](mailto:yessir0621@gmail.com)
+
+
+
 
 ---
 ### 📈 GitHub Stats
