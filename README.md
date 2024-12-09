@@ -41,7 +41,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-c14438?logo=gmail&style=flat)](mailto:yessir0621@gmail.com)
 
 ---
-
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Louis-Li-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Li-dev&layout=compact&theme=radical)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louis-Li-dev&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Li-dev&layout=compact&theme=radical" alt="Top Languages" style="width: 38%;" />
+</div>
+
