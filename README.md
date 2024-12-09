@@ -12,7 +12,7 @@
 
 ---
 
-### 📚 Courses Taught at [**NCHU**](https://www.nchu.edu.tw/)
+### 📚 Courses Taught at NCHU (National Chung Hsing University) GDG on campus
 - **Flask + Firebase** for the GDG On-Campus Club  
   🔗 [Tutorials & Materials](https://github.com/stars/Louis-Li-dev/lists/tutorial)
 
