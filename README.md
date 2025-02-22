@@ -1,6 +1,5 @@
 # 👋 Welcome to My GitHub Profile
-
-## I'm **An-Syu Li**
+I'm **An-Syu Li**
 
 ### 🌐 [Personal Website](https://per-info-devs-projects-9393dff0.vercel.app/)
 
