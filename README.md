@@ -6,6 +6,7 @@ I'm **An-Syu Li**
 ---
 
 ### 🚀 Recent Projects
+ 🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
 - [**Video Shorterner**](https://github.com/stars/Louis-Li-dev/lists/professor-assigned-project)  
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones* 
 - [**GAN-based Recommender**](https://github.com/Louis-Li-dev?tab=repositories)  
