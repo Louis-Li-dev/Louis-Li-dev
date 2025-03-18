@@ -6,12 +6,12 @@ I'm **An-Syu Li**
 ---
 
 ### 🚀 Recent Projects
- 🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
 - [**Video Shorterner**](https://github.com/stars/Louis-Li-dev/lists/professor-assigned-project)  
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones* 
 - [**GAN-based Recommender**](https://github.com/Louis-Li-dev?tab=repositories)  
   *A recommendation system leveraging Generative Adversarial Networks (GANs) to enhance prediction accuracy.*
 
+🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
 ---
 
 ### 📚 Courses Taught at NCHU (National Chung Hsing University) GDG on campus
