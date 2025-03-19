@@ -8,7 +8,7 @@ I'm **An-Syu Li**
 ### 🚀 Recent Projects
 - [**Video Shorterner**](https://github.com/Louis-Li-dev/Shorter.Video.Generator)  
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones* 
-- [**GAN-based Recommender**](https://github.com/Louis-Li-dev?tab=repositories)  
+- [**GAN-based Recommender**](https://github.com/Louis-Li-dev/GAN-based_recommender)  
   *A recommendation system leveraging Generative Adversarial Networks (GANs) to enhance prediction accuracy.*
 
 🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
