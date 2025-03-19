@@ -12,6 +12,7 @@ I'm **An-Syu Li**
   *A recommendation system leveraging Generative Adversarial Networks (GANs) to enhance prediction accuracy.*
 
 🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
+
 ---
 
 ### 📚 Courses Taught at NCHU (National Chung Hsing University) GDG on campus
@@ -32,6 +33,15 @@ I'm **An-Syu Li**
 
 ---
 
+### 📦 Downloadable Packages
+- [TTKNN](https://github.com/Louis-Li-dev/TT_KNN) quick command: 
+  ```bash
+  pip install git+https://github.com/Louis-Li-dev/TT_KNN
+  ```
+- [MLToolKit](https://github.com/Louis-Li-dev/ML_tool_kit)
+  ```bash
+  pip install git+https://github.com/Louis-Li-dev/ML_tool_kit
+  ```
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/an-syu-li-10897a273/)
 [![Email](https://img.shields.io/badge/Email-Contact-c14438?logo=gmail&style=flat)](mailto:yessir0621@gmail.com)
