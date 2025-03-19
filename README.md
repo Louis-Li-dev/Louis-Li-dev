@@ -34,7 +34,7 @@ I'm **An-Syu Li**
 ---
 
 ### 📦 Downloadable Packages
-- [TTKNN](https://github.com/Louis-Li-dev/TT_KNN) quick command: 
+- [TTKNN](https://github.com/Louis-Li-dev/TT_KNN) 
   ```bash
   pip install git+https://github.com/Louis-Li-dev/TT_KNN
   ```
