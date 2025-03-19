@@ -34,17 +34,17 @@ I'm **An-Syu Li**
 ---
 
 ### 📦 Downloadable Packages
-- [TTKNN](https://github.com/Louis-Li-dev/TT_KNN): **This model introduces a temporal-trajectory-based K Nearest Neighbor (TT-KNN) algorithm designed to predict human mobility patterns by analyzing historical data and leveraging key factors of human flow trajectories.**
+- [TTKNN](https://github.com/Louis-Li-dev/TT_KNN): *This model introduces a temporal-trajectory-based K Nearest Neighbor (TT-KNN) algorithm designed to predict human mobility patterns by analyzing historical data and leveraging key factors of human flow trajectories.*
 
   ```bash
   pip install git+https://github.com/Louis-Li-dev/TT_KNN
   ```
-- [MLToolKit](https://github.com/Louis-Li-dev/ML_tool_kit): **Machine Learning Tool Kit is a Python package that simplifies PyTorch workflows by providing efficient tools for training, data preprocessing, and model evaluation.**
+- [MLToolKit](https://github.com/Louis-Li-dev/ML_tool_kit): *Machine Learning Tool Kit is a Python package that simplifies PyTorch workflows by providing efficient tools for training, data preprocessing, and model evaluation.*
   ```bash
   pip install git+https://github.com/Louis-Li-dev/ML_tool_kit
   ```
 
-- [GeoTools](https://github.com/Louis-Li-dev/Geo-Tools): A Python package for geospatial data visualization and coordinate-based country lookup.
+- [GeoTools](https://github.com/Louis-Li-dev/Geo-Tools): *A Python package for geospatial data visualization and coordinate-based country lookup.*
   ```bash
   pip install git+https://github.com/Louis-Li-dev/Geo-Tools.git
   ```
