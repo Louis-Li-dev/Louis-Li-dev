@@ -10,6 +10,9 @@ I'm **An-Syu Li**
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones* 
 - [**GAN-based Recommender**](https://github.com/Louis-Li-dev/GAN-based_recommender)  
   *A recommendation system leveraging Generative Adversarial Networks (GANs) to enhance prediction accuracy.*
+- [**RAG-Powered ChatBot Interface**](https://github.com/Louis-Li-dev/chat-bot-rag-system)
+  *Powered by retrieval-augmented generative models, this system delivers interactive experiences that help users effortlessly extract answers from documentation.*
+  
 
 🔗 [All Project Links](https://github.com/stars/Louis-Li-dev/lists/projects)
 
