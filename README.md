@@ -5,7 +5,7 @@
 
 
 ### 🚀 Recent Projects
-- [**Video Shorterner**](https://github.com/Louis-Li-dev/Shorter.Video.Generator)  
+- [**Video Shortener**](https://github.com/Louis-Li-dev/Shorter.Video.Generator)  
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones*
   ```bash
   git clone https://github.com/Louis-Li-dev/Shorter.Video.Generator.git
