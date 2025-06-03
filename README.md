@@ -5,6 +5,9 @@
 
 
 ### 🚀 Recent Projects
+- [**Travel Planner**](https://github.com/Louis-Li-dev/TravelPlanner) [*Demo Video*](https://www.youtube.com/watch?v=8zmszxsehj4&feature=youtu.be) [*Demo Link*](https://travelplanner-dwsp.onrender.com/) \
+  *Powered by Gemini Search Engine, with the use of prompting, this system can tailor itineraries with users' requests to generate personalized recommendations*
+
 - [**Video Shortener**](https://github.com/Louis-Li-dev/Shorter.Video.Generator)  [*Demo Link*](https://www.youtube.com/watch?v=Kei59Z9Ze_8)    
   *Integrate Whisper and Gemini to construct a system that takes slides and videos to build more concise ones*
   ```bash
