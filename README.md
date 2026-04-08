@@ -68,11 +68,4 @@
 
 
 
----
-### 📈 GitHub Stats
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louis-Li-dev&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Li-dev&layout=compact&theme=radical" alt="Top Languages" style="width: 38%;" />
-</div>
 
